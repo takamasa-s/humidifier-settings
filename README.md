@@ -22,9 +22,9 @@
 加湿器と湿度計の距離は約2m
 
 - 使用した湿度センサー
-以前こちらの[IoT水耕栽培、はじめてみた。](https://github.com/takamasa-s/iot-hydroponics)で作成した
-[Grove 温度や湿度センサー(DHT11)]（https://wiki.seeedstudio.com/jp/Grove-TemperatureAndHumidity_Sensor/#:~:text=Grove%20%E6%B8%A9%E5%BA%A6%E3%81%8A%E3%82%88%E3%81%B3%E6%B9%BF%E5%BA%A6%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC,%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%97%E3%81%BE%E3%81%99%E3%80%82）を使用。
+以前こちらの[IoT水耕栽培、はじめてみた。](https://github.com/takamasa-s/iot-hydroponics)でお世話になった
+[Grove 温度や湿度センサー(DHT11)](https://wiki.seeedstudio.com/jp/Grove-TemperatureAndHumidity_Sensor/#:~:text=Grove%20%E6%B8%A9%E5%BA%A6%E3%81%8A%E3%82%88%E3%81%B3%E6%B9%BF%E5%BA%A6%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC,%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%97%E3%81%BE%E3%81%99%E3%80%82)を使用。
 
 ## 3. 結果と考察
 
-
+<img width="500" src="https://github.com/takamasa-s/iot-hydroponics/blob/main/kit.png">
